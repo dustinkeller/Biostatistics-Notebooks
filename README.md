@@ -33,13 +33,9 @@ No installation is required. Simply open the notebook files in Google Colab.
 
 ## Notebooks
 
-- [T-Test](./T-Test.ipynb): Explore and perform t-tests on your data.
+- [Working with Data in Python](Working_with_data_in_Python,_Confidence_Intervals_and_Dispersion.ipynb): Get comfortable with using Python for your analyses!
+- [Normal Distribution and Confidence Intervals](./Normal_Distribution_and_Confidence_Intervals.ipynb): Analysis with the Normal distribution.
+- [Significance and Hypothesis Testing](./Significance_and_Hypothesis_Testing.ipynb): Perform significance tests on your hypotheses.
+- [T-Test](./TTest.ipynb): Explore and perform t-tests on your data.
 - [ANOVA](./ANOVA.ipynb): Conduct analysis of variance for multiple groups.
-- [Chi-Square](./ChiSquare.ipynb): Conduct Goodness of Fit analysis for categorical data.
-
-## Acknowledgments
-
-- [Google Colab](https://colab.research.google.com/)
-- [Pandas](https://pandas.pydata.org/)
-- [NumPy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
+- [Chi-Square](./Chi_Square.ipynb): Conduct Goodness of Fit analysis for categorical data.
